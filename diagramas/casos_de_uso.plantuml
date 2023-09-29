@@ -1,0 +1,15 @@
+@startumL
+left to right direction
+actor usuario as g
+
+package juego21{
+    usecase "jugar" as UC1
+    usercase "iniciar juego" as UC2
+    usercase "iniciar juego" as UC2
+    usercase "obtener carta" as UC3
+    usercase "contar valor" as UC4
+    usercase "comparar valor" as UC5
+}
+g -- UC1
+UC1 <
+@endumL
