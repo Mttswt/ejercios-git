@@ -24,6 +24,6 @@ de 21 de lo contrario solo suma 1.
 
 ## diagramas
  - Diagrama e casos de uso:
-  ![]()
+  ![casos de uso](out/diagramas/casos_de_uso/casos_de_uso.png)
  - Diagrama de clase:
  - Diagrama de secuencia:
